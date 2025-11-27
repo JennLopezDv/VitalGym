@@ -1,4 +1,2 @@
-id_miembro,nombre,documento,teléfono,correo,plan(Básico,Premium,Completo),fecha_inicio,fecha_fin_plan,estado(Activo:True,Inactivo:False)
-1,Gabriela,123456,3113254596,Gab@example.com,Completo,2025-11-26,2025-12-26,Activo
-2,Pepito,789123,3258964756,Pepo@example.com,Premium,2025-11-26,2026-02-26, Activo
-3,Juanito,456789,3625847125,Juanito@example.com,Básico,2025-10-01,2025-11-01,Inactivo
+id,nombre,documento,telefono,correo,tipo_plan,fecha_inicio,fecha_fin,estado
+1,rsgfdgdg,454654,46546556,sddfghgh,BASICO,2025-11-26,2025-12-26,ACTIVO

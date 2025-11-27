@@ -2,9 +2,6 @@ Ejercicio: Consola de membresía de fitness – Gestión de Miembros y Entrenami
 El centro deportivo VitalGym necesita una herramienta en consola desarrollada en Python que permita administrar:
 
 - Miembros | Entrenamientos | Asistencias | Pagos de membresías | Informes mensuales
->>> Toda la persistencia debe manejarse con archivos CSV <<<
-
->>>>>>>> Inicio de sesión: (Al iniciar, la aplicación solicita usuario y contraseña) <<<<<<<<<
 
 Archivo: usuarios.csv
 Campos:

@@ -1,0 +1,1 @@
+pago_id, id_miembro, nombre, monto, fecha_pago, mes_pagado, año, método (Efectivo: Efect, Tarjeta: Tarj, Transferencia: Trans)
